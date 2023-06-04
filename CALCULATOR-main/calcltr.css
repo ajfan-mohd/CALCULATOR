@@ -1,0 +1,19 @@
+.cal
+{
+    background-color: black;
+    border-radius: 8px;
+    position: absolute;
+    top:100px;
+    left: 450px;
+    
+    padding: 30px;
+}
+.btn{
+width: 60px;
+height: 45px;
+}
+body{
+    background-size: contain;
+    width: 100%;
+    height: 700px;
+}
